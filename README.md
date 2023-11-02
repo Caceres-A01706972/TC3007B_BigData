@@ -1,6 +1,3 @@
-# TC3007B_BigData
-Repositorio para el módulo de Big Data de TC3007C
-
 # ENTREGABLE 1
 Este proyecto implementa un sistema de recomendación de películas utilizando PySpark, una biblioteca de procesamiento de datos y aprendizaje automático distribuido de Apache Spark.
 ## Descripción
