@@ -10,6 +10,6 @@ El objetivo de este proyecto es recomendar películas similares en función de l
 5. Recomendar películas similares a una película de referencia dada por el usuario.
 
 ## Visualización Tableau
-Link al Dashboard público: https://public.tableau.com/views/Netflix_Dashboard_16988978847550/Netflix?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Link al Dashboard público: https://public.tableau.com/shared/C2Y56QG2T?:display_count=n&:origin=viz_share_link
 
 ![Netflix_Dashboard](https://github.com/Caceres-A01706972/TC3007B_BigData/assets/83652905/8a8518c2-f7df-43ca-959d-7ff309752dce)
