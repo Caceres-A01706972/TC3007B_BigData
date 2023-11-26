@@ -1,7 +1,9 @@
 # Book Review Sentiment Analysis 📚 😄
 
 Este proyecto utiliza Apache PySpark para realizar análisis de sentimiento en reviews de libros. El dataset utilizado es de `2.86 GB`.
+
 El DataSet se encuentra en el siguiente link: https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/data
+
 El objetivo es predecir si un comentario es positivo o negativo mediante un modelo de regresión logística.
 
 ## Introducción 🚀
