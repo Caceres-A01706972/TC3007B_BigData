@@ -1,4 +1,4 @@
-# Book Review Sentiment Analysis 📚 😄
+# Sentiment Analysis for Amazon Book Reviews 📚 😄
 
 Este proyecto utiliza Apache PySpark para realizar análisis de sentimiento en reviews de libros. El dataset utilizado es de `2.86 GB`.
 
